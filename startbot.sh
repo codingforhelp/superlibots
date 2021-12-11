@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod +x engines/stockfish
+chmod +x engines/sf
 python lichess-bot.py -u
