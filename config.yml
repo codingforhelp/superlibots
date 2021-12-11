@@ -3,7 +3,7 @@ url: "https://lichess.org/"  # Lichess base URL.
 
 engine:                      # Engine settings.
   dir: "./engines/"          # Directory containing engines, relative to this project.
-  name: "chess-engine"        # Binary name of the engine to use.
+  name: "stockfish_21082721_x64_modern.exe"        # Binary name of the engine to use.
   protocol: "uci"            # "uci" or "xboard"
   ponder: false               # Think on opponent's time.
   polyglot:
